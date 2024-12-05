@@ -1,0 +1,23 @@
+# rx_hostdisconnect_w
+# rx_error_w
+# nxt_i
+# token_setup_addr_q
+# token_setup_cfg_q
+# token_sof_q
+# token_in_q
+# token_setup_addr_q_delay
+# token_setup_cfg_q_delay
+# token_sof_q_delay
+# data_byte_count_q
+# dir_i
+# tx_resp_timeout
+# rx_resp_timeout_1
+# rx_ctr
+# rx_resp_timeout_2
+# send_ack_q
+# crc_error_w
+# status_response_q
+# init_q
+token_in_q
+wait_counter
+dreset_counter_done
